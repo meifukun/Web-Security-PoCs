@@ -19,8 +19,7 @@ The application fails to properly sanitize user input supplied to the `firstName
 
 1. **Setup**: Deploy the Simple E-learning System locally.
 2. **Login**: Log in to the application using valid credentials (e.g., Email: `jforeman@mail.com`, Password: `jforeman123`).
-3. **Capture Request**: Navigate to the user profile update page. Modify the profile and capture the POST request using a proxy tool (like Burp Suite) or browser developer tools to obtain the valid `PHPSESSID` cookie.
-4. **Exploit**: Run `sqlmap` against the target URL using the captured cookie and the vulnerable parameter.
+3. **Exploit**: Run `sqlmap` against the target URL using the captured cookie and the vulnerable parameter.
 
 **SQLMap Command:**
 
