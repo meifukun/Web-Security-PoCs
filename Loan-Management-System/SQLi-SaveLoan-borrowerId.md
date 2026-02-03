@@ -60,10 +60,6 @@ Parameter: borrower_id (POST)
 <img width="989" height="218" alt="图片" src="https://github.com/user-attachments/assets/e3fca71f-3903-4215-aa8f-eb55c2c0db8a" />
 
 
-### 2. Execution Evidence
-
-*(Place your screenshot here showing the terminal running the sqlmap command and the final success info)*
-
 ## Impact
 
 This vulnerability allows an authenticated attacker to:
