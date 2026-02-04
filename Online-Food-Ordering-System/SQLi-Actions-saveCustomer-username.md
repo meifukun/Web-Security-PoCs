@@ -1,4 +1,4 @@
-# CVE-2026-XXXX (Pending) - SQL Injection in Online Food Ordering System (Customer Management)
+# SQL Injection in Online Food Ordering System (Customer Management)
 
 ## Overview
 
