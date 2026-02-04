@@ -18,8 +18,7 @@ The application fails to properly sanitize the `sid` parameter in the HTTP GET r
 
 1. **Setup**: Deploy the Inventory System locally.
 2. **Login**: Log in to the application.
-3. **Navigate**: Go to the Sales list and click to edit a sale (this triggers `update_sales.php`).
-4. **Exploit**: Send a crafted HTTP request to `update_sales.php` injecting SQL into the `sid` parameter, or use `sqlmap`.
+3. **Exploit**: Send a crafted HTTP request to `update_sales.php` injecting SQL into the `sid` parameter, or use `sqlmap`.
 
 **SQLMap Command:**
 
