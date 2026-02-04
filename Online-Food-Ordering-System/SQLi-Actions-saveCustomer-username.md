@@ -19,8 +19,7 @@ The application fails to properly sanitize the `username` parameter in the HTTP 
 
 1. **Setup**: Deploy the Online Food Ordering System locally.
 2. **Login/Access**: Access the Customer Registration or Edit Customer interface in the admin panel.
-3. **Capture Request**: Intercept the POST request sent to `Actions.php?a=save_customer` when saving customer details.
-4. **Exploit**: Run `sqlmap` against the captured request targeting the `username` parameter.
+3. **Exploit**: Run `sqlmap` against the captured request targeting the `username` parameter.
 
 **SQLMap Command:**
 
