@@ -38,3 +38,7 @@ When the victim accesses the URL, the payload `</script><script>alert(207252)</s
 * **Session Hijacking**: Attackers can steal session cookies of authenticated users or administrators.
 * **Phishing**: Attackers can modify the page DOM to trick users into entering credentials.
 * **Malicious Actions**: Execute arbitrary actions on behalf of the victim within the application.
+
+## Reference
+
+* [Project Source Code](https://www.sourcecodester.com/php/14471/loan-management-system-using-phpmysql-source-code.html)
