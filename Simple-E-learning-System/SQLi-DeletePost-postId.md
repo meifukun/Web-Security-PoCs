@@ -57,6 +57,9 @@ back-end DBMS: MySQL >= 5.0.12
 ```
 <img width="1022" height="155" alt="图片" src="https://github.com/user-attachments/assets/d25663b7-234b-493e-889e-ca66df3e879f" />
 
+<img width="1065" height="1089" alt="图片" src="https://github.com/user-attachments/assets/8e02e78c-ccdf-4233-9951-521236a2c678" />
+
+
 ## Impact
 
 This vulnerability allows an authenticated attacker to:
