@@ -59,6 +59,8 @@ Parameter: borrower_id (POST)
 
 <img width="989" height="218" alt="图片" src="https://github.com/user-attachments/assets/e3fca71f-3903-4215-aa8f-eb55c2c0db8a" />
 
+<img width="1031" height="1066" alt="图片" src="https://github.com/user-attachments/assets/af39dfda-240d-4513-9702-f55be8faaf52" />
+
 
 ## Impact
 
