@@ -55,6 +55,7 @@ Parameter: date (GET)
 ```
 <img width="1051" height="258" alt="图片" src="https://github.com/user-attachments/assets/8de6cf00-03ec-4d80-96a1-8e9f0465e217" />
 
+<img width="1169" height="707" alt="图片" src="https://github.com/user-attachments/assets/87928db0-1b99-4b9a-a567-9180bd926d83" />
 
 
 ## Impact
