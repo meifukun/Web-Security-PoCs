@@ -79,6 +79,7 @@ Parameter: searchtxt (POST)
 
 ```
 <img width="1058" height="417" alt="图片" src="https://github.com/user-attachments/assets/ec3cd5e6-951e-4789-9aca-d83518ea52b6" />
+<img width="906" height="569" alt="图片" src="https://github.com/user-attachments/assets/c2b4c170-308f-4c60-9fbb-479422ce1a18" />
 
 
 
