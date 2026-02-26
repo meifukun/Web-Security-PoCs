@@ -82,6 +82,7 @@ Parameter: sellid (GET)
 
 ```
 <img width="1015" height="461" alt="图片" src="https://github.com/user-attachments/assets/de2870d6-b0e8-42d2-b3d7-308bcdddc827" />
+![Uploading 图片.png…]()
 
 
 
