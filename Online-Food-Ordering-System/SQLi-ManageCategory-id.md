@@ -75,6 +75,7 @@ Parameter: id (GET)
 
 ```
 <img width="1055" height="420" alt="图片" src="https://github.com/user-attachments/assets/20d26da8-6e92-4368-80f8-ffd03d8b2d61" />
+<img width="1096" height="751" alt="图片" src="https://github.com/user-attachments/assets/87278929-6777-4053-8447-c5bf0c1d84b6" />
 
 
 ## Impact
