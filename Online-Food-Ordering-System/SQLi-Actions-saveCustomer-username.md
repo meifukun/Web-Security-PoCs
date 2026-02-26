@@ -70,6 +70,7 @@ Parameter: username (POST)
 ```
 
 <img width="1062" height="326" alt="图片" src="https://github.com/user-attachments/assets/f2d28a59-dd69-4544-8cba-fe82e6f55083" />
+<img width="1184" height="899" alt="图片" src="https://github.com/user-attachments/assets/fbc633e5-33ce-40d8-a7cb-69fb90f2bf57" />
 
 
 ## Impact
