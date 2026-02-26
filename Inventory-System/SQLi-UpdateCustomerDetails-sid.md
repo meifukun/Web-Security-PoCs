@@ -78,6 +78,7 @@ Parameter: sid (GET)
 ```
 
 <img width="1059" height="369" alt="图片" src="https://github.com/user-attachments/assets/4d1547fd-d77f-4280-82fb-889900f5b246" />
+<img width="992" height="454" alt="图片" src="https://github.com/user-attachments/assets/66a24550-8b8d-45d9-b2cb-79577263bee0" />
 
 
 ## Impact
