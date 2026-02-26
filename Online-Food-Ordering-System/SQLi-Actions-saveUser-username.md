@@ -72,6 +72,7 @@ back-end DBMS: SQLite
 ```
 
 <img width="1068" height="326" alt="图片" src="https://github.com/user-attachments/assets/1c0d1ad9-b28b-49f6-858f-b06006f7b2b4" />
+<img width="1066" height="572" alt="图片" src="https://github.com/user-attachments/assets/ee54e1a4-023a-4618-8861-22801b5a5342" />
 
 
 ## Impact
