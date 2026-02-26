@@ -79,6 +79,7 @@ Parameter: stock_name1 (POST)
 ```
 
 <img width="1051" height="412" alt="图片" src="https://github.com/user-attachments/assets/a38673d5-872c-4780-a28e-b78347526fef" />
+<img width="895" height="545" alt="图片" src="https://github.com/user-attachments/assets/fe73f20b-352a-43d6-bdcd-c0a8a5072d07" />
 
 
 ## Impact
