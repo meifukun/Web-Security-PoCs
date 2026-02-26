@@ -81,6 +81,7 @@ back-end DBMS: MySQL >= 5.0.12
 
 ```
 <img width="1062" height="405" alt="图片" src="https://github.com/user-attachments/assets/b8661128-5ac7-4ca0-8a3c-ed2b8c278260" />
+<img width="1025" height="474" alt="图片" src="https://github.com/user-attachments/assets/662deedb-373d-4b00-b800-a46f2d08b88b" />
 
 
 ## Impact
