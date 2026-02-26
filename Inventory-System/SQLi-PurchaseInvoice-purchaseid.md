@@ -77,6 +77,7 @@ Parameter: purchaseid (GET)
 
 ```
 <img width="1051" height="364" alt="图片" src="https://github.com/user-attachments/assets/90aceab1-f66c-422c-8cc8-96b9d28a4d63" />
+<img width="860" height="466" alt="图片" src="https://github.com/user-attachments/assets/90a55ef9-6bc7-4e85-a3f5-51a794ce4df8" />
 
 
 ## Impact
