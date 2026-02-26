@@ -55,6 +55,7 @@ Parameter: cost (POST)
 
 ```
 <img width="1042" height="202" alt="图片" src="https://github.com/user-attachments/assets/e83b4c96-c080-4453-ab51-b6945f78c033" />
+<img width="966" height="665" alt="图片" src="https://github.com/user-attachments/assets/074e3141-2287-4815-a0b7-7a468c4b6c53" />
 
 
 
