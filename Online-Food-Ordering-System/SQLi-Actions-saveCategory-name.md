@@ -64,6 +64,10 @@ back-end DBMS: SQLite
 
 <img width="839" height="250" alt="图片" src="https://github.com/user-attachments/assets/beab5564-1e65-4587-9681-8e05221fbd47" />
 
+There is also a time-based SQL injection vulnerability here, as demonstrated below.
+<img width="1045" height="574" alt="图片" src="https://github.com/user-attachments/assets/76ad1475-ab03-4639-9be6-e0c44f73af5b" />
+
+
 
 ## Impact
 
